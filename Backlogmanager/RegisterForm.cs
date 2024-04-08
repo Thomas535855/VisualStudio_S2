@@ -5,7 +5,7 @@ namespace Backlogmanager
     public partial class RegisterForm : Form
     {
         private UserContainer _userContainer;
-        private User _user;
+        private readonly User _user;
         public RegisterForm()
         {
             InitializeComponent();

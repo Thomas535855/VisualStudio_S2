@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Backlogmanager.BLL\Backlogmanager.BLL.csproj" />
+    <ProjectReference Include="..\Backlogmanager.BLL\Backlogmanager.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backlogmanager.ASP", "Backlogmanager.ASP.csproj", "{60583401-217E-412E-B7BE-49576F51E434}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backlogmanager.View", "Backlogmanager.View.csproj", "{60583401-217E-412E-B7BE-49576F51E434}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backlogmanager.DAL", "..\Backlogmanager.DAL\Backlogmanager.DAL.csproj", "{DCC8CA11-B7E9-4145-A1F4-8564CD52D2DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backlogmanager.DataAcces", "..\Backlogmanager.DAL\Backlogmanager.DataAcces.csproj", "{DCC8CA11-B7E9-4145-A1F4-8564CD52D2DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backlogmanager.BLL", "..\Backlogmanager.BLL\Backlogmanager.BLL.csproj", "{7FA87C0E-2D4D-4B99-B297-FA78F60666F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backlogmanager.Domain", "..\Backlogmanager.BLL\Backlogmanager.Domain.csproj", "{7FA87C0E-2D4D-4B99-B297-FA78F60666F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

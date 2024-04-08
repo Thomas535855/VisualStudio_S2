@@ -707,30 +707,30 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "Backlogmanager.BLL/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Backlogmanager.DAL": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Backlogmanager.BLL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Backlogmanager.BLL.dll": {}
-        }
-      },
-      "Backlogmanager.DAL/1.0.0": {
+      "Backlogmanager.DataAcces/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.2.0"
         },
         "compile": {
-          "bin/placeholder/Backlogmanager.DAL.dll": {}
+          "bin/placeholder/Backlogmanager.DataAcces.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Backlogmanager.DAL.dll": {}
+          "bin/placeholder/Backlogmanager.DataAcces.dll": {}
+        }
+      },
+      "Backlogmanager.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Backlogmanager.DataAcces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Backlogmanager.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Backlogmanager.Domain.dll": {}
         }
       }
     }
@@ -2037,20 +2037,20 @@
         "version.txt"
       ]
     },
-    "Backlogmanager.BLL/1.0.0": {
+    "Backlogmanager.DataAcces/1.0.0": {
       "type": "project",
-      "path": "../Backlogmanager.BLL/Backlogmanager.BLL.csproj",
-      "msbuildProject": "../Backlogmanager.BLL/Backlogmanager.BLL.csproj"
+      "path": "../Backlogmanager.DAL/Backlogmanager.DataAcces.csproj",
+      "msbuildProject": "../Backlogmanager.DAL/Backlogmanager.DataAcces.csproj"
     },
-    "Backlogmanager.DAL/1.0.0": {
+    "Backlogmanager.Domain/1.0.0": {
       "type": "project",
-      "path": "../Backlogmanager.DAL/Backlogmanager.DAL.csproj",
-      "msbuildProject": "../Backlogmanager.DAL/Backlogmanager.DAL.csproj"
+      "path": "../Backlogmanager.BLL/Backlogmanager.Domain.csproj",
+      "msbuildProject": "../Backlogmanager.BLL/Backlogmanager.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "Backlogmanager.BLL >= 1.0.0",
+      "Backlogmanager.Domain >= 1.0.0",
       "Microsoft.Data.SqlClient >= 5.2.0"
     ]
   },
@@ -2061,9 +2061,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager\\Backlogmanager.ASP.csproj",
-      "projectName": "Backlogmanager.ASP",
-      "projectPath": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager\\Backlogmanager.ASP.csproj",
+      "projectUniqueName": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager\\Backlogmanager.View.csproj",
+      "projectName": "Backlogmanager.View",
+      "projectPath": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager\\Backlogmanager.View.csproj",
       "packagesPath": "C:\\Users\\Thomas (School)\\.nuget\\packages\\",
       "outputPath": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager\\obj\\",
       "projectStyle": "PackageReference",
@@ -2087,8 +2087,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.BLL\\Backlogmanager.BLL.csproj": {
-              "projectPath": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.BLL\\Backlogmanager.BLL.csproj"
+            "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.BLL\\Backlogmanager.Domain.csproj": {
+              "projectPath": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.BLL\\Backlogmanager.Domain.csproj"
             }
           }
         }

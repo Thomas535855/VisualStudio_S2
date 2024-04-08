@@ -65,3 +65,5 @@ D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager\bin\Debug\net8.0-wind
 D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager\bin\Debug\net8.0-windows\Backlogmanager.DAL.pdb
 D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager\obj\Debug\net8.0-windows\Backlogmanager.ASP.csproj.AssemblyReference.cache
 D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager\obj\Debug\net8.0-windows\Backlogm.64D4AF7E.Up2Date
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager\obj\Debug\net8.0-windows\Backlogmanager.ASP.sourcelink.json
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager\obj\Debug\net8.0-windows\Backlogmanager.ASP.ProfileForm.resources
