@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Backlogmanager.View")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8221b554e36bb44469fe34beda5c9d7a6a6f4518")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf92026c8993c627f8da14374b12a46b7185cb6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Backlogmanager.View")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Backlogmanager.View")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,13 @@
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\bin\Debug\net8.0\Backlogmanager.DataAcces.deps.json
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\bin\Debug\net8.0\Backlogmanager.DataAcces.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\bin\Debug\net8.0\Backlogmanager.DataAcces.pdb
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.csproj.AssemblyReference.cache
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.AssemblyInfoInputs.cache
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.AssemblyInfo.cs
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.csproj.CoreCompileInputs.cache
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.sourcelink.json
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\refint\Backlogmanager.DataAcces.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.pdb
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\ref\Backlogmanager.DataAcces.dll

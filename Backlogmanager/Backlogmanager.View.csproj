@@ -16,4 +16,8 @@
     <ProjectReference Include="..\Backlogmanager.BLL\Backlogmanager.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
 </Project>

@@ -32,8 +32,7 @@
             pnlFriendlist = new Panel();
             pnlFriend = new Panel();
             lblFriendlist = new Label();
-            flowLayoutPanel1 = new FlowLayoutPanel();
-            panel1 = new Panel();
+            flpGameDisplay = new FlowLayoutPanel();
             pnlFriendlist.SuspendLayout();
             SuspendLayout();
             // 
@@ -78,34 +77,25 @@
             lblFriendlist.TabIndex = 0;
             lblFriendlist.Text = "Friendlist:";
             // 
-            // flowLayoutPanel1
+            // flpGameDisplay
             // 
-            flowLayoutPanel1.Location = new Point(307, 99);
-            flowLayoutPanel1.Name = "flowLayoutPanel1";
-            flowLayoutPanel1.Size = new Size(229, 345);
-            flowLayoutPanel1.TabIndex = 3;
-            // 
-            // panel1
-            // 
-            panel1.BackColor = SystemColors.ControlDarkDark;
-            panel1.Location = new Point(42, 99);
-            panel1.Margin = new Padding(3, 4, 3, 4);
-            panel1.Name = "panel1";
-            panel1.Size = new Size(229, 345);
-            panel1.TabIndex = 1;
+            flpGameDisplay.Location = new Point(42, 88);
+            flpGameDisplay.Name = "flpGameDisplay";
+            flpGameDisplay.Size = new Size(1430, 865);
+            flpGameDisplay.TabIndex = 3;
             // 
             // OverviewForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1797, 965);
-            Controls.Add(flowLayoutPanel1);
+            Controls.Add(flpGameDisplay);
             Controls.Add(pnlFriendlist);
-            Controls.Add(panel1);
             Controls.Add(lblPopular);
             Margin = new Padding(3, 4, 3, 4);
             Name = "OverviewForm";
             Text = "OverviewForm";
+            Load += OverviewForm_Load;
             pnlFriendlist.ResumeLayout(false);
             pnlFriendlist.PerformLayout();
             ResumeLayout(false);
@@ -118,7 +108,6 @@
         private Panel pnlFriendlist;
         private Panel pnlFriend;
         private Label lblFriendlist;
-        private FlowLayoutPanel flowLayoutPanel1;
-        private Panel panel1;
+        private FlowLayoutPanel flpGameDisplay;
     }
 }

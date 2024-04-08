@@ -116,7 +116,7 @@ namespace Backlogmanager.DAL.DALs
             catch (SqlException) { throw; }
         }
 
-        private GameDTO ExtractDTO(SqlDataReader reader) 
+        private GameDTO ExtractDTO(SqlDataReader reader)
         {
             GameDTO gameDTO = new GameDTO()
             {
@@ -125,10 +125,12 @@ namespace Backlogmanager.DAL.DALs
                 Year_of_Release = (float)reader.GetDouble("Year_of_Release"),
                 Genre = reader.GetString("Genre"),
                 Publisher = reader.GetString("Publisher"),
-                User_Score = (float)reader.GetDouble("User_Score"),
+                User_Score = (float)reader.GetDouble("Year_of_Release"),
                 GameId = reader.GetGuid("GameId")
             };
+
             return gameDTO;
+
         }
 
     }
