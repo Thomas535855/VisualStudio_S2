@@ -24,8 +24,6 @@ namespace Backlogmanager
                 Game gme = _gameContainer.GetById(test.GameId);
                 AddGameToOverview(gme);
             }
-            else { MessageBox.Show("Failed");  }
-            
         }
     
         private void AddGameToOverview(Game game)
