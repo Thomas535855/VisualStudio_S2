@@ -1,6 +1,4 @@
 ﻿using Backlogmanager.BLL;
-using System.Collections.Generic;
-using System.Windows.Forms;
 
 namespace Backlogmanager
 {
