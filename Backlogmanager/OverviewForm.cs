@@ -30,7 +30,6 @@ namespace Backlogmanager
             
         }
     
-
         private void AddGameToOverview(Game game)
         {
             Label label = GenerateLabel(game);
