@@ -1,0 +1,16 @@
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\bin\Debug\net8.0\Backlogmanager.BLL.deps.json
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\bin\Debug\net8.0\Backlogmanager.BLL.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\bin\Debug\net8.0\Backlogmanager.BLL.pdb
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\bin\Debug\net8.0\Backlogmanager.DAL.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\bin\Debug\net8.0\Backlogmanager.DAL.pdb
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\obj\Debug\net8.0\Backlogmanager.BLL.csproj.AssemblyReference.cache
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\obj\Debug\net8.0\Backlogmanager.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\obj\Debug\net8.0\Backlogmanager.BLL.AssemblyInfoInputs.cache
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\obj\Debug\net8.0\Backlogmanager.BLL.AssemblyInfo.cs
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\obj\Debug\net8.0\Backlogmanager.BLL.csproj.CoreCompileInputs.cache
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\obj\Debug\net8.0\Backlogm.3809625B.Up2Date
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\obj\Debug\net8.0\Backlogmanager.BLL.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\obj\Debug\net8.0\refint\Backlogmanager.BLL.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\obj\Debug\net8.0\Backlogmanager.BLL.pdb
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\obj\Debug\net8.0\ref\Backlogmanager.BLL.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.BLL\obj\Debug\net8.0\Backlogmanager.BLL.sourcelink.json

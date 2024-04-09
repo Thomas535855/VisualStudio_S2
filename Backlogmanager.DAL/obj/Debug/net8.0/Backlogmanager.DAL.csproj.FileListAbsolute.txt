@@ -1,0 +1,13 @@
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\bin\Debug\net8.0\Backlogmanager.DAL.deps.json
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\bin\Debug\net8.0\Backlogmanager.DAL.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\bin\Debug\net8.0\Backlogmanager.DAL.pdb
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DAL.csproj.AssemblyReference.cache
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DAL.AssemblyInfoInputs.cache
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DAL.AssemblyInfo.cs
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DAL.csproj.CoreCompileInputs.cache
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DAL.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\refint\Backlogmanager.DAL.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DAL.pdb
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\ref\Backlogmanager.DAL.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DAL.sourcelink.json
