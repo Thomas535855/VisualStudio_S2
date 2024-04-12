@@ -67,3 +67,4 @@ D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager\obj\Debug\net8.0-wind
 D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager\obj\Debug\net8.0-windows\Backlogmanager.View.pdb
 D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager\obj\Debug\net8.0-windows\Backlogmanager.View.genruntimeconfig.cache
 D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager\obj\Debug\net8.0-windows\ref\Backlogmanager.View.dll
+D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager\obj\Debug\net8.0-windows\Backlogmanager.View.Properties.Resources.resources

@@ -13,19 +13,17 @@ namespace Backlogmanager
             InitializeComponent();
             _home = home;
             _gameContainer = new GameContainer();
+
         }
 
         private void OverviewForm_Load(object sender, EventArgs e)
         {
-            Game test = new Game("Name", "Test", 4, "fg", "Fdf", 6);
-            bool succes = _gameContainer.Add(test);
-            if (succes)
+            foreach (Game game in _gameContainer.GetTop())
             {
-                Game gme = _gameContainer.GetById(test.GameId);
-                AddGameToOverview(gme);
+                AddGameToOverview(game);
             }
         }
-    
+
         private void AddGameToOverview(Game game)
         {
             Label label = GenerateLabel(game);
@@ -38,21 +36,22 @@ namespace Backlogmanager
         {
             Label label = new Label();
             label.AutoSize = true;
-            label.Text = $"{game.Name} \n" + $"{game.Year_of_Release}";
+            label.Text = $"{game.Name} \n \n" + $"{game.Publisher}\n" + $"{game.Year_of_Release}";
             return label;
         }
 
         private FlowLayoutPanel GenerateFLP(Label label, PictureBox picture)
         {
             FlowLayoutPanel flpGamePanel = new FlowLayoutPanel();
-            flpGamePanel.Width = 325;
-            flpGamePanel.Height = 380;
+            flpGamePanel.Width = 250;
+            flpGamePanel.Height = 435;
             flpGamePanel.BackColor = Color.LightGray;
             flpGamePanel.Padding = new Padding(10);
             flpGamePanel.Margin = new Padding(10);
-            flpGamePanel.AutoSize = true;
+            flpGamePanel.AutoSize = false;
             flpGamePanel.FlowDirection = FlowDirection.TopDown;
 
+            flpGamePanel.Controls.Add(picture);
             flpGamePanel.Controls.Add(label);
 
             return flpGamePanel;
@@ -64,7 +63,7 @@ namespace Backlogmanager
             image.Width = 225;
             image.Height = 300;
             image.SizeMode = PictureBoxSizeMode.StretchImage;
-            image.Image = Image.FromFile("D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager\\Images\\placeholder.png");
+            image.ImageLocation = @"D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager\Resources\placeholder.png";
             return image;
         }
     }

@@ -76,6 +76,27 @@ namespace Backlogmanager.DAL.DALs
             catch (SqlException) { throw; }
         }
 
+        public List<GameDTO> SelectTop()
+        {
+            try
+            {
+                using SqlConnection conn = new SqlConnection(connectionString);
+                using SqlCommand command = new SqlCommand("Game_SelectTop", conn);
+                command.CommandType = CommandType.StoredProcedure;
+
+                List<GameDTO> output = new List<GameDTO>();
+                conn.Open();
+                using SqlDataReader reader = command.ExecuteReader();
+                while (reader.Read())
+                {
+                    GameDTO gameDTO = ExtractDTO(reader);
+                    output.Add(gameDTO);
+                }
+                return output;
+            }
+            catch (SqlException) { throw; }
+        }
+
         public bool Update(GameDTO gameDTO)
         {
             try

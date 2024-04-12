@@ -79,9 +79,10 @@
             // 
             // flpGameDisplay
             // 
+            flpGameDisplay.AutoScroll = true;
             flpGameDisplay.Location = new Point(42, 88);
             flpGameDisplay.Name = "flpGameDisplay";
-            flpGameDisplay.Size = new Size(1430, 865);
+            flpGameDisplay.Size = new Size(1410, 727);
             flpGameDisplay.TabIndex = 3;
             // 
             // OverviewForm

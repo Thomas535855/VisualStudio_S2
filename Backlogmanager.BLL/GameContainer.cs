@@ -1,6 +1,5 @@
 ﻿using Backlogmanager.DAL.DALs;
 using Backlogmanager.DAL.DTOs;
-using System.Reflection.Metadata.Ecma335;
 
 namespace Backlogmanager.BLL
 {
@@ -38,6 +37,19 @@ namespace Backlogmanager.BLL
             GameDTO dto = _gameDAL.SelectById(id);
             Game game = new Game(dto.Name, dto.Platform, dto.Year_of_Release, dto.Genre, dto.Publisher, dto.User_Score);
             return game;
+        }
+
+        public List<Game> GetTop()
+        {
+            List<GameDTO> gameDTOs = _gameDAL.SelectTop();
+            List<Game> output = new List<Game>();
+
+            foreach (GameDTO dto in gameDTOs)
+            {
+                Game game = new Game(dto.Name, dto.Platform, dto.Year_of_Release, dto.Genre, dto.Publisher, dto.User_Score);
+                output.Add(game);
+            }
+            return output;
         }
 
         public bool Update(Game game)
