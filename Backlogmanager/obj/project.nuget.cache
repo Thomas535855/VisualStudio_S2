@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cUsOsgjAURGEJDH8akD5Dr1+97MQHNA7P236III99x2YzHaJI69uImFeqqF8N5UtPMMdlfFYnmjSDVxRT/4y8Q==",
+  "dgSpecHash": "jOpL1HJLh1rG9Z5rnwB4zwNgWprjI+FHjdz2DgN8nmSS+EHo05Bgd1Tk9SplakcOBxAD9YGWRkQC4g2js/SFrw==",
   "success": true,
-  "projectFilePath": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager\\Backlogmanager.View.csproj",
+  "projectFilePath": "C:\\Users\\Thomas (School)\\Source\\Repos\\s2-go1-thomas-albregts\\Individuele Project\\Backlogmanager\\Backlogmanager.View.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thomas (School)\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Thomas (School)\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

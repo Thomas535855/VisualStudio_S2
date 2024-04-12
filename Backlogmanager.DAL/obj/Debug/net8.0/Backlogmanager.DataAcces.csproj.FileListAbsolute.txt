@@ -11,3 +11,16 @@ D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\
 D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\refint\Backlogmanager.DataAcces.dll
 D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.pdb
 D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\obj\Debug\net8.0\ref\Backlogmanager.DataAcces.dll
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\bin\Debug\net8.0\Backlogmanager.DataAcces.deps.json
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\bin\Debug\net8.0\Backlogmanager.DataAcces.dll
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\bin\Debug\net8.0\Backlogmanager.DataAcces.pdb
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.csproj.AssemblyReference.cache
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.AssemblyInfoInputs.cache
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.AssemblyInfo.cs
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.sourcelink.json
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.dll
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\obj\Debug\net8.0\refint\Backlogmanager.DataAcces.dll
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\obj\Debug\net8.0\Backlogmanager.DataAcces.pdb
+C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\obj\Debug\net8.0\ref\Backlogmanager.DataAcces.dll

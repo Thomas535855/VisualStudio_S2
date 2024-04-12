@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.DAL\\Backlogmanager.DataAcces.csproj": {}
+    "C:\\Users\\Thomas (School)\\Source\\Repos\\s2-go1-thomas-albregts\\Individuele Project\\Backlogmanager.DAL\\Backlogmanager.DataAcces.csproj": {}
   },
   "projects": {
-    "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.DAL\\Backlogmanager.DataAcces.csproj": {
+    "C:\\Users\\Thomas (School)\\Source\\Repos\\s2-go1-thomas-albregts\\Individuele Project\\Backlogmanager.DAL\\Backlogmanager.DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.DAL\\Backlogmanager.DataAcces.csproj",
+        "projectUniqueName": "C:\\Users\\Thomas (School)\\Source\\Repos\\s2-go1-thomas-albregts\\Individuele Project\\Backlogmanager.DAL\\Backlogmanager.DataAcces.csproj",
         "projectName": "Backlogmanager.DataAcces",
-        "projectPath": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.DAL\\Backlogmanager.DataAcces.csproj",
+        "projectPath": "C:\\Users\\Thomas (School)\\Source\\Repos\\s2-go1-thomas-albregts\\Individuele Project\\Backlogmanager.DAL\\Backlogmanager.DataAcces.csproj",
         "packagesPath": "C:\\Users\\Thomas (School)\\.nuget\\packages\\",
-        "outputPath": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Thomas (School)\\Source\\Repos\\s2-go1-thomas-albregts\\Individuele Project\\Backlogmanager.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

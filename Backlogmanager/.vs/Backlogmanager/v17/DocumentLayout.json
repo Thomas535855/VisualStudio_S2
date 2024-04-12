@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager\\",
+  "WorkspaceRootPath": "C:\\Users\\Thomas (School)\\source\\repos\\s2-go1-thomas-albregts\\Individuele Project\\Backlogmanager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FA87C0E-2D4D-4B99-B297-FA78F60666F1}|..\\Backlogmanager.BLL\\Backlogmanager.Domain.csproj|d:\\fontys school\\semester 2\\visualstudio_s2\\backlogmanager.bll\\gamecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.BLL\\GameContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCC8CA11-B7E9-4145-A1F4-8564CD52D2DB}|..\\Backlogmanager.DAL\\Backlogmanager.DataAcces.csproj|d:\\fontys school\\semester 2\\visualstudio_s2\\backlogmanager.dal\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60583401-217E-412E-B7BE-49576F51E434}|Backlogmanager.View.csproj|d:\\fontys school\\semester 2\\visualstudio_s2\\backlogmanager\\overviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60583401-217E-412E-B7BE-49576F51E434}|Backlogmanager.View.csproj|C:\\Users\\Thomas (School)\\source\\repos\\s2-go1-thomas-albregts\\Individuele Project\\Backlogmanager\\overviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60583401-217E-412E-B7BE-49576F51E434}|Backlogmanager.View.csproj|solutionrelative:overviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\fontys school\\semester 2\\visualstudio_s2\\backlogmanager.dal\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +28,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.DAL\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "..\\Backlogmanager.DAL\\DTOs\\UserDTO.cs",
               "ToolTip": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.DAL\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "..\\Backlogmanager.DAL\\DTOs\\UserDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T08:07:25.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T08:07:25.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OverviewForm.cs",
-              "DocumentMoniker": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager\\OverviewForm.cs",
+              "DocumentMoniker": "C:\\Users\\Thomas (School)\\source\\repos\\s2-go1-thomas-albregts\\Individuele Project\\Backlogmanager\\OverviewForm.cs",
               "RelativeDocumentMoniker": "OverviewForm.cs",
-              "ToolTip": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager\\OverviewForm.cs",
+              "ToolTip": "C:\\Users\\Thomas (School)\\source\\repos\\s2-go1-thomas-albregts\\Individuele Project\\Backlogmanager\\OverviewForm.cs",
               "RelativeToolTip": "OverviewForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T11:34:42.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T11:34:42.132Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameContainer.cs",
               "DocumentMoniker": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.BLL\\GameContainer.cs",
-              "RelativeDocumentMoniker": "..\\Backlogmanager.BLL\\GameContainer.cs",
               "ToolTip": "D:\\Fontys School\\Semester 2\\VisualStudio_S2\\Backlogmanager.BLL\\GameContainer.cs",
-              "RelativeToolTip": "..\\Backlogmanager.BLL\\GameContainer.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T09:27:58.557Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Backlogmanager.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfbf86b4115674ba87aa346184e48fc6d9aa0ea9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fc8b4ca8a8d252da7b47233f5c6a080032a4519")]
 [assembly: System.Reflection.AssemblyProductAttribute("Backlogmanager.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Backlogmanager.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

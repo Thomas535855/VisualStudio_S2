@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Backlogmanager.DataAcces
-build_property.ProjectDir = D:\Fontys School\Semester 2\VisualStudio_S2\Backlogmanager.DAL\
+build_property.ProjectDir = C:\Users\Thomas (School)\Source\Repos\s2-go1-thomas-albregts\Individuele Project\Backlogmanager.DAL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
